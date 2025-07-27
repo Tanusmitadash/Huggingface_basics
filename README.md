@@ -1,4 +1,4 @@
-# Huggingface_basics  Hugging Face AI Bootcamp  
+ Huggingface_basics  Hugging Face AI Bootcamp  
 Hugging Face Transformers, Datasets, and Spaces—working through full-stack ML pipelines, model fine‑tuning, and AI application deployment on Gradio.   
 
 
@@ -33,20 +33,18 @@ We will be using Google Colab for hands-on implementation:
 🔹 Open Google Colab
 🔹 Connect to GPU runtime (Runtime → Change runtime type → GPU)
 
-🔬 Proof of Concepts (PoC)
- PoC 1 – Text Generation with GPT-2
+ Proof of Concepts (PoC)
+
+PoC 1 – Text Generation with GPT-2
 Tools: transformers (by Hugging Face)
-
 Model: gpt2
-
 Task: Generate coherent text given an initial input prompt.
 
-✅ PoC 2 – Named Entity Recognition (NER)
+PoC 2 – Named Entity Recognition (NER)
 Tools: transformers + pretrained NER models
-
 Task: Identify and label entities like names, locations, organizations, etc., in a given sentence.
 
-📊 Mini Projects
+ Mini Projects
  Project 1 – Sentiment Analysis App using Gradio
 Analyze whether input text expresses positive, negative, or neutral sentiment.
 
